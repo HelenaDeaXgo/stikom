@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "commands": [
+    {
+      "command": "auth:login",
+      "completion": 0,
+      "version": "7.16.0",
+      "plugin": "@heroku-cli/plugin-auth",
+      "plugin_version": "7.16.0",
+      "os": "linux",
+      "shell": "bash",
+      "valid": true,
+      "language": "node"
+    },
+    {
+      "command": "create",
+      "completion": 0,
+      "version": "7.16.0",
+      "plugin": "@heroku-cli/plugin-apps-v5",
+      "plugin_version": "7.16.0",
+      "os": "linux",
+      "shell": "bash",
+      "valid": true,
+      "language": "node"
+    },
+    {
+      "command": "create",
+      "completion": 0,
+      "version": "7.16.0",
+      "plugin": "@heroku-cli/plugin-apps-v5",
+      "plugin_version": "7.16.0",
+      "os": "linux",
+      "shell": "bash",
+      "valid": true,
+      "language": "node"
+    },
+    {
+      "command": "git:remote",
+      "completion": 0,
+      "version": "7.16.0",
+      "plugin": "@heroku-cli/plugin-git",
+      "plugin_version": "7.16.0",
+      "os": "linux",
+      "shell": "bash",
+      "valid": true,
+      "language": "node"
+    }
+  ]
+}

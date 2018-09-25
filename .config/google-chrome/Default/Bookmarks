@@ -1,0 +1,245 @@
+{
+   "checksum": "19734fb3f9662593f126658ffbfabc06",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13139371400751356",
+            "id": "23",
+            "meta_info": {
+               "last_visited_desktop": "13141183234180271"
+            },
+            "name": "Typing Lessons | Learn Touch Typing - Typing.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.typing.com/student"
+         }, {
+            "date_added": "13174819979839220",
+            "id": "24",
+            "meta_info": {
+               "last_visited_desktop": "13175406269556280"
+            },
+            "name": "Admin webhost",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.000webhost.com/members/website/list"
+         }, {
+            "date_added": "13176822984888839",
+            "id": "25",
+            "meta_info": {
+               "last_visited_desktop": "13181400324228973"
+            },
+            "name": "Index of /shared/files/Music",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://uplusion23.net/shared/files/Music/"
+         }, {
+            "date_added": "13182359486205940",
+            "id": "26",
+            "meta_info": {
+               "last_visited_desktop": "13182359486207271"
+            },
+            "name": "Cara Install Apache, Mysql, PHP, PHPMyadmin di Linux Ubuntu 16.04",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "https://medium.com/hammercode/cara-install-apache-mysql-php-phpmyadmin-di-linux-e6ba341ec14a"
+         } ],
+         "date_added": "13182358685342079",
+         "date_modified": "13182359486205940",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13182358685342088",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "5",
+      "synced": {
+         "children": [ {
+            "date_added": "13079316450992900",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13147329901288383"
+            },
+            "name": "Descargas ESET",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://demos.eset.es/"
+         }, {
+            "date_added": "13143194111728472",
+            "id": "6",
+            "meta_info": {
+               "last_visited": "13166707360679550",
+               "last_visited_desktop": "13168061932495749"
+            },
+            "name": "LOS EXTENDED",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/los-kenzo/downloads/blob/lk-7.1/README.md"
+         }, {
+            "date_added": "13157002075579846",
+            "id": "7",
+            "meta_info": {
+               "last_visited": "13157003104254567",
+               "last_visited_desktop": "13165136777917034"
+            },
+            "name": "Decimal to Binary converter | number conversion",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.rapidtables.com/convert/number/decimal-to-binary.html"
+         }, {
+            "date_added": "13157840996243464",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13158155623999107"
+            },
+            "name": "hichem - Google Drive",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/mobile/folders/1xcNWvWghJ8jONHnXjV6zwe-o4Ki4GPkc"
+         }, {
+            "date_added": "13162702660906430",
+            "id": "9",
+            "meta_info": {
+               "last_visited": "13166614175132531"
+            },
+            "name": "Solve the 3x3 Rubik's Cube | You CAN Do the Rubiks Cube",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youcandothecube.com/solve-it/3-x-3-solution"
+         }, {
+            "date_added": "13163918990085453",
+            "id": "10",
+            "meta_info": {
+               "last_visited": "13163920213537578",
+               "last_visited_desktop": "13163920387861628"
+            },
+            "name": "nitrogen-project - Browse /kenzo/kenzo_test/8.1 at SourceForge.net",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://sourceforge.net/projects/nitrogen-project/files/kenzo/kenzo_test/8.1/"
+         }, {
+            "date_added": "13168081358361762",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13172643859092010"
+            },
+            "name": "Free Student and Teacher Licenses | Axure Software",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.axure.com/edu"
+         }, {
+            "date_added": "13168679180266141",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13168700727617857"
+            },
+            "name": "Best YouTube to MP3 Converter Apps for iPhone (iOS 11 Compatible) - Cydia Geeks",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.cydiageeks.com/youtube-to-mp3-iphone-download-music.html"
+         }, {
+            "date_added": "13168775849148788",
+            "id": "13",
+            "name": "The Longshot (Band) – The Last Time Lyrics | Genius Lyrics",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://genius.com/The-longshot-band-the-last-time-lyrics"
+         }, {
+            "date_added": "13169279917613322",
+            "id": "14",
+            "name": "Pemodelan Berorientasi Objek | I Gede Made Karma's Weblog",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://igedemadekarma.wordpress.com/stikom/pemodelan-berorientasi-objek/"
+         }, {
+            "date_added": "13169566974143632",
+            "id": "15",
+            "name": "The Longshot (Band) - Love is for Losers Lyrics and Tracklist | Genius",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://genius.com/albums/The-longshot-band/Love-is-for-losers"
+         }, {
+            "date_added": "13171373530667673",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13171373623792499"
+            },
+            "name": "phpmyadmin/create_tables.sql at master · phpmyadmin/phpmyadmin · GitHub",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/phpmyadmin/phpmyadmin/blob/master/sql/create_tables.sql"
+         }, {
+            "date_added": "13172504941401679",
+            "id": "17",
+            "meta_info": {
+               "last_visited_desktop": "13172561243340195"
+            },
+            "name": "Nonton Film Girl Lost (2018) subtitle Indonesia - cinemaindo",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://cinemaindo.pro/girl-lost-2018/"
+         }, {
+            "date_added": "13172602348379577",
+            "id": "18",
+            "meta_info": {
+               "last_visited_desktop": "13172603232061521"
+            },
+            "name": "Program dev c++ Penggunaan struct untuk input dan tampil data mahasiswa – Computer Science and Tech Information (KOMSI) UGM",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.co.id/amp/s/kuntikhoirunnisaa.wordpress.com/2014/11/17/program-dev-c-penggunaan-struct-untuk-input-dan-tampil-data-mahasiswa/amp/"
+         }, {
+            "date_added": "13173762539973625",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13173852484016297"
+            },
+            "name": "Google Drive - Virus scan warning",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://docs.google.com/uc?id=0B1NaKl-SF5JTd0JxckZXUHRBTUE&export=download"
+         }, {
+            "date_added": "13173762566505445",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13173852539552580"
+            },
+            "name": "Google Drive - Virus scan warning",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://docs.google.com/uc?id=0BzjGOXj3ANGLN0tLOUw2X1Bxa00&export=download"
+         }, {
+            "date_added": "13173762588138280",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13173854663427857"
+            },
+            "name": "Google Drive - Virus scan warning",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://docs.google.com/uc?id=0BzjGOXj3ANGLT05oZ3lqb2pTWW8&export=download"
+         }, {
+            "date_added": "13174663917435967",
+            "id": "22",
+            "meta_info": {
+               "last_visited_desktop": "13174717835476558"
+            },
+            "name": "Tutorial Kampus.com - Kumpulan Tutorial",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.tutorialkampus.com/2014/06/perancangan-sistem-aplikasi-rekam-medis_9.html?m=1"
+         } ],
+         "date_added": "13182358685342090",
+         "date_modified": "13174663917435967",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
