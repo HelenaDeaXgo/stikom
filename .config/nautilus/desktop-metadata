@@ -7,3 +7,13 @@ nautilus-desktop-icon-size=48
 nautilus-icon-position-timestamp=1537888818
 nautilus-icon-position=56,26
 icon-scale=1
+
+[Sena Ferdy.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1537891611
+
+[106 GB Volume.volume]
+nautilus-icon-position=56,426
+icon-scale=1
+nautilus-icon-position-timestamp=1537891621

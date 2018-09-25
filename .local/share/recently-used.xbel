@@ -3,12 +3,48 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///tmp/mozilla_senaferdy0/google-chrome-stable_current_amd64.deb" added="2018-09-25T14:07:27Z" modified="2018-09-25T14:07:27Z" visited="2018-09-25T14:07:28.147545Z">
+  <bookmark href="file:///tmp/mozilla_senaferdy0/google-chrome-stable_current_amd64.deb" added="2018-09-25T14:07:27Z" modified="2018-09-25T14:07:27Z" visited="2018-09-25T14:07:28Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.debian.binary-package"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-09-25T14:07:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/senaferdy/Desktop/Untitled%20Document%201" added="2018-09-25T16:04:18Z" modified="2018-09-25T16:04:18Z" visited="2018-09-25T16:04:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-09-25T16:04:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/senaferdy/Desktop/botline.zip" added="2018-09-25T16:04:46Z" modified="2018-09-25T16:04:46Z" visited="2018-09-25T16:04:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2018-09-25T16:04:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/LineBotPHP/composer.json" added="2018-09-25T16:07:34Z" modified="2018-09-25T16:07:34Z" visited="2018-09-25T16:07:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-09-25T16:07:34Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
